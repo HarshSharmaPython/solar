@@ -1,0 +1,6 @@
+.env
+.prettierrc
+venv
+gitignore
+__pycache__
+.venv/
